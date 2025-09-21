@@ -1,16 +1,22 @@
-# resto
+# Resto
 
-A new Flutter project.
+First GitHub Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a Flutter application built using the Dart framework.  
+It provides a simple starting point for building cross-platform mobile apps for Android and iOS with a clean architecture.
+The app is small shop for some electronics items that we need currently years
 
-A few resources to get you started if this is your first Flutter project:
+Features :
+■ Simple - Static Intro Widget
+■ Animated Navigation - which is fade In & Out, It works when you signup in the app
+■ Cross-Platform - works on Android and iOS  
+■ Clean & Aesthetic UI — modern design with a focus on simplicity 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Setup Instructions :
+■ Install [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest stable version)
+■ Install [Dart](https://dart.dev/get-dart)
+■ Install [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks fot your time :)
