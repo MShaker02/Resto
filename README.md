@@ -29,4 +29,13 @@ The app is small shop for some electronics items that we need currently years
 ■ Install [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
 
 
+##  Screenshots
+
+<p align="center">
+  <img src="asset\screenshots\Screenshot_1" alt="Home Screen" width="250"/>
+  <img src="asset\screenshots\Screenshot_2" alt="Intro Screen" width="250"/>
+  <img src="asset\screenshots\Screenshot_3" alt="Flow Screen" width="250"/>
+</p>
+
+
 Thanks fot your time :)
