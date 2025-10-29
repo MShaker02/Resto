@@ -32,7 +32,7 @@ The app is small shop for some electronics items that we need currently years
 ##  Screenshots
 
 <p align="center">
-  <img src="asset/screenshots/screenshot_1.jpg" alt="Home Screen" width="250"/>
+  <img src="asset/screenshots/Screenshot_1.jpg" alt="Home Screen" width="250"/>
   <img src="asset\screenshots\Screenshot_2" alt="Intro Screen" width="250"/>
   <img src="asset\screenshots\Screenshot_3" alt="Flow Screen" width="250"/>
 </p>
