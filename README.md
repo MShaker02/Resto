@@ -32,10 +32,14 @@ The app is small shop for some electronics items that we need currently years
 ##  Screenshots
 
 <p align="center">
-  <img src="asset/screenshots/Screenshot_1.jpg" alt="Home Screen" width="250"/>
-  <img src="asset/screenshots/Screenshot_2.jpg" alt="Intro Screen" width="250"/>
-  <img src="asset/screenshots/Screenshot_3.jpg" alt="Flow Screen" width="250"/>
-<img src="asset/screenshots/Screenshot_4.jpg" width="250"/>
+  <img src="asset/screenshots/Screenshot_1.jpg" width="250"/>
+  <img src="asset/screenshots/Screenshot_2.jpg" width="250"/>
+  <img src="asset/screenshots/Screenshot_3.jpg" width="250"/>
+  <img src="asset/screenshots/Screenshot_4.jpg" width="250"/>
+<img src="asset/screenshots/Screenshot_5.jpg" width="250"/>
+<img src="asset/screenshots/Screenshot_6.jpg" width="250"/>
+<img src="asset/screenshots/Screenshot_7.jpg" width="250"/>
+<img src="asset/screenshots/Screenshot_8.jpg" width="250"/>
 </p>
 
 
