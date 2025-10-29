@@ -43,4 +43,4 @@ The app is small shop for some electronics items that we need currently years
 </p>
 
 
-Thanks fot your time :)
+Thanks for your time :)
