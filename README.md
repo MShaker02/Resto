@@ -35,6 +35,7 @@ The app is small shop for some electronics items that we need currently years
   <img src="asset/screenshots/Screenshot_1.jpg" alt="Home Screen" width="250"/>
   <img src="asset/screenshots/Screenshot_2.jpg" alt="Intro Screen" width="250"/>
   <img src="asset/screenshots/Screenshot_3.jpg" alt="Flow Screen" width="250"/>
+<img src="asset/screenshots/Screenshot_4.jpg" width="250"/>
 </p>
 
 
